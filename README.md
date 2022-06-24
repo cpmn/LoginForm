@@ -15,20 +15,19 @@
 ## :dart: Description ##
 
 This project was made during week 13 of MIT xPRO bootcamp, the asignment is to create a login form with validation using Formik.
-Based on the initial project I have created my own version using The Simpson theme, you will move the eyes in Homero, March, Lisa and Bart. 
 
 ## :sparkles: Validations ##
 
-:heavy_check_mark: If the username or password inputs are empty, display the message "Field required" under the text input.
-:heavy_check_mark: If the username is not in an email format, display the message "Username should be an email" under the text input.
-:heavy_check_mark: If the username and password pass the above validations, then display the message "Login Successful" in an alert box.
+:heavy_check_mark: If the username or password inputs are empty, display the message "Field required" under the text input.\
+:heavy_check_mark: If the username is not in an email format, display the message "Username should be an email" under the text input.\
+:heavy_check_mark: If the username and password pass the above validations, then display the message "Login Successful" in an alert box.\
 
 
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
 
-- [NPM](hhttps://nodejs.org/)
+- [npm](https://nodejs.org/)
 - [React](https://en.reactjs.org/)
 - [Formik](https://formik.org/)
 
@@ -47,7 +46,7 @@ $ cd LoginForm
 $ npm install
 $ npm Start
 
-#
+
 Once the webpage is started you will see a login page loaded.
 
 ## :memo: License ##
